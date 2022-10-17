@@ -22,3 +22,16 @@
 - Collage name : HIT
 
 <br>
+
+<br>
+
+- Name : Gyana Ranjan
+- Collage name : CV Raman
+
+<br>
+<br>
+
+- Name : CodewithSolanki
+- Collage name : HIT
+
+<br>
